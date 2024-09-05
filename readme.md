@@ -9,12 +9,13 @@ Instrutora: [NayaraWakweski](https://github.com/NayaraWakewski) <br>
 <br>
 
 
-#layout_aula5_review
-Generated using [DbSchema](https://dbschema.com)
-
-
 ### Project Statement
 ![img](project_statement.png)
+
+
+
+#layout_aula5_review
+Generated using [DbSchema](https://dbschema.com)
 
 
 
